@@ -1,1 +1,1 @@
-This repository is based on a personalized practical approach after going through the course 'Chatbots: Basics of Chatbots with Machine Learning & Python'. 
+This repository is based on a personalized ,practical approach after going through the course 'Chatbots: Basics of Chatbots with Machine Learning & Python'. The goal was to develop a chatbot that could take a link to a WKikipedia article and answer questions related to it. The course mentioned above provided me with a refresher and reusing the code I modified it to fulfill my goals.  
